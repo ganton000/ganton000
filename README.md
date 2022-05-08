@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganton000&show_icons=true&theme=great-gatsby)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **ganton000/ganton000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
