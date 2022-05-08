@@ -1,4 +1,4 @@
-### Hi there 👋
+#George Anton's GitHub
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
