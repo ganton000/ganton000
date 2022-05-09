@@ -1,4 +1,4 @@
-### Hi there 👋, George Anton
+### Hi there 👋
 
 My name is George Anton, I live in New York City. I am an Amazon Connect Engineer and my interests lie in automation, data engineering and full-stack web/mobile app development. I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. 
 
