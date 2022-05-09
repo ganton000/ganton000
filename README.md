@@ -1,4 +1,4 @@
-##George Anton's GitHub
+My name is George Anton, I live in New York City. I am an Amazon Connect Engineer and my interests lie in automation, data engineering and full-stack web/mobile app development. I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. 
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="left" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
