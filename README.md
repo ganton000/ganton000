@@ -27,7 +27,7 @@ Skills: PYTHON / REACT / JS / HTML / CSS / AWS / GRAPHQL / POSTGRESQL / DYNAMODB
 <img align="left" alt="Sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <br />
 <br />
-<img align="left" alt="LaTeX" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 <img align="left" alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
