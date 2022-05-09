@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is George Anton. I have a MS in ```Mathematics``` from CUNY-City College. I am a Software Engineer at [Cognizant](https://www.cognizant.com/us/en) and live in New York City. My interests lie in ```automation```, ```NLP```, ```data engineering``` and ```full-stack``` web/mobile ```app dev```elopment.  I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ganton000)
+My name is George Anton. I graduated from CUNY-City College with a MS in Mathematics. I am a Software Engineer at [Cognizant](https://www.cognizant.com/us/en) and reside in New York City. My interests lie in automation, NLP, data engineering and full-stack web/mobile app development.  I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. I also love doing puzzles on [HackerRank](https://www.hackerrank.com/ganton000) and playing [Chess](https://www.chess.com/member/anton-d4e4)!
 
 
 - 🔭 I’m currently working on Responsive Chat Applications 
@@ -12,7 +12,7 @@ Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/
  --- 
  <p align="center">
 Programming Languages: <br /> 
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+[<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>]
 <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
