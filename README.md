@@ -40,15 +40,11 @@ Cloud Services, Databases: <br />
 <img alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img alt="Sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
---- 
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ganton000)  
-
 
 ---
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 <!--
 **ganton000/ganton000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
