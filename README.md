@@ -1,4 +1,19 @@
+### Hi there 👋, George Anton
+#### Amazon Connect Engineer
+![Amazon Connect Engineer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 My name is George Anton, I live in New York City. I am an Amazon Connect Engineer and my interests lie in automation, data engineering and full-stack web/mobile app development. I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. 
+
+Skills: PYTHON / REACT / JS / HTML / CSS / AWS / GRAPHQL / POSTGRESQL / DYNAMODB
+
+- 🔭 I’m currently working on Responsive Chat Applications 
+- 🌱 I’m currently learning React & React Native 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ganton000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ganton000/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/george-anton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.copypasterepeat.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/ganton000)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](discordapp.com/users/ganton#5180)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ganton000)  
+
 
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img align="left" alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
