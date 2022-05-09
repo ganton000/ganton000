@@ -9,7 +9,7 @@ My name is George Anton, I live in New York City. I am an Amazon Connect Enginee
 
  --- 
  <p align="center">
-Languages: <br /> 
+Programming Languages: <br /> 
 <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 <img alt="HTML" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -45,6 +45,10 @@ Cloud Services, Databases: <br />
 <p align="center">
 <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
 </p>
+
+---
+
+Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/)
 <!--
 **ganton000/ganton000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
