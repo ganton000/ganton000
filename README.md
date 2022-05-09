@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-My name is George Anton, I live in New York City. I am an Amazon Connect Engineer and my interests lie in automation, data engineering and full-stack web/mobile app development. I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. 
+My name is George Anton. I have a MS in ```Mathematics``` from CUNY-City College. I am a Software Engineer at [Cognizant](https://www.cognizant.com/us/en) and live in New York City. My interests lie in ```automation```, ```NLP```, ```data engineering``` and ```full-stack``` web/mobile ```app dev```elopment.  I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ganton000)
 
 
 - 🔭 I’m currently working on Responsive Chat Applications 
 - 🌱 I’m currently learning React & React Native 
 - 📚 Goals for 2022: Become proficient with React, AWS & learn more on NLP.
+
+Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/)
 
  --- 
  <p align="center">
@@ -46,9 +48,6 @@ Cloud Services, Databases: <br />
 <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
 </p>
 
----
-
-Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/)
 <!--
 **ganton000/ganton000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
