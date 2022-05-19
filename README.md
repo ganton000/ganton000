@@ -52,7 +52,7 @@ Cloud Services & Databases: <br />
 
 ---
 <p align="center">
-<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats"/>
+<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats"/>
 </p>
 
 <!--
