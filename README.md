@@ -56,7 +56,7 @@ Cloud Services & Databases: <br />
 
 ---
 <p align="center">
-<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true&exclude_repo=DS_Klosterman_Book&langs_count=6)](https://github.com/anuraghazra/github-readme-stats"/>
+<img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true&exclude_repo=DS_Klosterman_Book&langs_count=7)](https://github.com/anuraghazra/github-readme-stats"/>
 </p>
 
 <!--
