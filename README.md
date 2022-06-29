@@ -2,7 +2,7 @@
 
 My name is George Anton. I graduated from CUNY-City College with a MS in Mathematics. I am a Software Engineer at [Cognizant](https://www.cognizant.com/us/en) and reside in New York City. My interests lie in automation, NLP, data engineering and full-stack web/mobile app development.  I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. I also love doing puzzles on [HackerRank](https://www.hackerrank.com/ganton000) and playing [Chess](https://www.chess.com/member/anton-d4e4)!
 
-- 🌱 I’m currently learning React Native & Web/Mobile Design.
+- 🌱 I’m currently learning NextJS, React Native & Web/Mobile Design.
 - 📚 Goals for 2022: Become proficient with React & AWS.
 
 Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/)
@@ -28,6 +28,7 @@ Frameworks, Libraries, Tools: <br />
 <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img alt ="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
 <img alt="Semanti-Ui" src="https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white"/>
 <img alt="SCSS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
