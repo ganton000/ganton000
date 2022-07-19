@@ -3,7 +3,7 @@
 My name is George Anton. I graduated from CUNY-City College with a MS in Mathematics. I am a Software Engineer at [Cognizant](https://www.cognizant.com/us/en) and reside in New York City. My interests lie in automation, NLP, data engineering and full-stack web/mobile app development.  I enjoy learning frameworks like React, React Native and working in Python/JS languages as well as reading on System Design/Architecture. I also love doing puzzles on [HackerRank](https://www.hackerrank.com/ganton000) and playing [Chess](https://www.chess.com/member/anton-d4e4)!
 
 - 🌱 I’m currently learning NextJS, React Native & Web/Mobile Design.
-- 📚 Goals for 2022: Become proficient with React & AWS.
+- 📚 Goals for 2022: Complete AWS Solutions Architect Certification
 
 Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/)
 
