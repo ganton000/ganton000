@@ -5,7 +5,7 @@ My name is George Anton. I've graduated from CUNY-City College with a M.S. in Ma
 - 🌱 I’m currently learning Docker & AWS ECS/ECR.
 - 📚 Goals for Summer 2023: Complete AWS Solutions Architect Certification and learn a low level language.
 
-Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/)
+Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/) <br>
 Also, follow me on [Medium](https://medium.com/@georgeanton000) where I blog about AWS, Python/NodeJs and Math related concepts!
 
  --- 
