@@ -2,7 +2,7 @@
 
 My name is George Anton. I've graduated from CUNY-City College with a M.S. in Mathematics. I am a Software Engineer at [Cognizant](https://www.cognizant.com/us/en) and reside in New York City. My interests lie in automation, NLP, data engineering and full-stack web/mobile app development. I currently spend a lot of time working on DevOps related projects on the Cloud, mainly using AWS services. On my free time, I enjoy reading up on Networking concepts as well as System Design/Architecture. I also love doing puzzles on [HackerRank](https://www.hackerrank.com/ganton000) and playing [Chess](https://www.chess.com/member/anton-d4e4)!
 
-- 🌱 I’m currently learning C++ & Docker.
+- 🌱 I’m currently learning C++, Java & Docker.
 - 📚 Goals by end of 2023: Complete AWS Solutions Architect Certification, Learn Data Structures & Algorithms & System Design Concepts.
 
 Feel free to connect and reach out to me on [LinkedIn](https://www.linkedin.com/in/ganton000/) <br>
