@@ -52,9 +52,9 @@ Cloud Services, Databases & ORMs: <br />
 </p>
 
 ---
-<p align="center">
+<!-- <p align="center">
 <img alt="TopLangs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganton000&layout=compact&count_private=true&exclude_repo=DS_Klosterman_Book&langs_count=8"/>
-</p>
+</p> -->
 
 <!--
 **ganton000/ganton000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
