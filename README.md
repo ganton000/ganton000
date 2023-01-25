@@ -5,7 +5,7 @@ My name is George Anton. I've graduated from CUNY-City College with a M.S. in Ma
 - 🌱 I’m currently learning C++, Docker & Advanced Programming Concepts.
 - 📚 Goals by end of 2023: Complete AWS Solutions Architect Certification, Learn Data Structures & Algorithms & System Design Concepts.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ganton000/) <br>
+<!-- Connect with me on [LinkedIn](https://www.linkedin.com/in/ganton000/) <br> -->
 Check out my tech blog on [Medium](https://medium.com/@georgeanton000)!
 
  --- 
