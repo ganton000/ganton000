@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is George Anton. I've graduated from CUNY-City College with a M.S. in Mathematics. I am a Software Engineer and reside in New York City. My interests lie in AWS Cloud networking and automation, building APIs, data engineering and some frontend web app development. On my free time, I enjoy reading up on Networking concepts as well as System Design/Architecture and am working towards becoming an AWS Solutions Architect. You can find me on [HackerRank](https://www.hackerrank.com/ganton000) and playing [Chess](https://www.chess.com/member/anton-d4e4)!
+My name is George Anton. I've graduated from CUNY-City College with a M.S. in Mathematics. I am a Software Engineer and reside in New York City. My interests lie in AWS Cloud networking and automation, building APIs, data engineering and some frontend web app development. On my free time, I enjoy reading up on Networking concepts as well as System Design/Architecture. You can find me on [HackerRank](https://www.hackerrank.com/ganton000) and playing [Chess](https://www.chess.com/member/anton-d4e4)!
 
 <!--- 
 - 🌱 I’m currently learning C++.
